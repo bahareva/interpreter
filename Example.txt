@@ -1,0 +1,24 @@
+a = 5-7 + 4-8 +12
+bb = (4-8)*(5-10)
+print a
+print bb
+read b
+print b
+S[a] = a*a
+print S[9]
+W[x]= 3*x%2 - 2
+print W[2]
+W[x] = (88 - x)/(5 +x)
+r = 3 +9%0 +6 -2
+print r
+DFF[x] = x + 23
+print DFF[(9-7)*6 -8]
+aaa= 1
+bbb = 2
+ccc = 3
+D[x] = aaa + 2*bbb%x
+print D[ccc]
+WQ[y] = 78/y -90 +9
+print WQ[2]
+read a read b
+print S[W[2]*(16/(7-3))]
